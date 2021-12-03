@@ -1,0 +1,18 @@
+﻿List the absolute minimum features the project requires to meet this purpose or goal:
+* A keyboard that includes emoji
+* The ability to type in a text box and see the corresponding emoji
+* The ability to send emoji in a text message or email
+
+What tools, frameworks, libraries, APIs, modules, and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+* React Native
+* Android Developer Toolkit
+* Emoji font  
+
+If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+* The ability to copy and paste emoji
+* The ability to select from a list of emoji
+
+What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+* A list of emoji
+* An API for accessing emoji
+* Library for parsing text
