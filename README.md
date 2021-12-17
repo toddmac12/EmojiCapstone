@@ -14,6 +14,8 @@
 *7:30 AM
 *Watching Vido on YouTube on Google Flutter
 Flutter Crash Course for Beginners 2021 - Build a Flutter App with Google's Flutter & Dart `https://www.youtube.com/watch?v=x0uinJvhNxI&t=16423s`
+*1:35 PM
+Created repo for app created using Flutter [gh repo clone toddmac12/first_flutter_app](https://github.com/toddmac12/first_flutter_app.git)
 ## Resources
 
 * <https://reactnative.dev/docs/components-and-apis>
