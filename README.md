@@ -10,6 +10,10 @@
 *7:30 AM
 *Researching for information about building emojis app
 
+12/17/2021:
+*7:30 AM
+*Watching Vido on YouTube on Google Flutter
+Flutter Crash Course for Beginners 2021 - Build a Flutter App with Google's Flutter & Dart `https://www.youtube.com/watch?v=x0uinJvhNxI&t=16423s`
 ## Resources
 
 * <https://reactnative.dev/docs/components-and-apis>
