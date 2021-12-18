@@ -17,6 +17,8 @@ Flutter Crash Course for Beginners 2021 - Build a Flutter App with Google's Flut
 *1:35 PM
 Created repo for app created using Flutter [gh repo clone toddmac12/first_flutter_app](https://github.com/toddmac12/first_flutter_app.git)
 *3:00 PM
+*7:50 PM
+Created repo for app created from video tutorial https://github.com/toddmac12/main_guide_flutter_app.git
 Watching next section of Flutter Crash Course
 ## Resources
 
